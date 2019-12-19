@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://devdafe:osogom@cluster0-vdpry.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtsecret": "osogommyfirstlove"
+}
